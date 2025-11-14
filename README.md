@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karina (She/They)</h1>
-<h3 align="center">Woman in STEM | Software Engineer from Arizona | 21</h3>
+<h3 align="center">Fullstack | Embedded Systems | 21</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karinathecorgi&label=Profile%20views&color=0e75b6&style=flat" alt="karinathecorgi" /> </p>
 
