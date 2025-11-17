@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karinathecorgi&label=Profile%20views&color=0e75b6&style=flat" alt="karinathecorgi" /> </p>
 
-- 🔭 I’m currently working on [my website](https://krnthec.org/)
+- 🔭 I’m currently working on [my website](https://krnthec.org/) and a vscode extension for RTOS testing.
 
-- 🌱 I’m currently learning **ReactJS and Qt/QML**
+- 🌱 I’m currently learning **ReactJS and Qt/QML**.
 
-- 👯 I’m looking to **make a game.**
+- 👯 I’m looking to **work on a indie game**.
 
-- 🤝 I’m looking for help with **ReactJS**
+- 🤝 I’m looking for help with **ReactJS and unity game development**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/KarinaTheCorgi/](https://github.com/KarinaTheCorgi/)
 
-- 💬 Ask me about **my job (I work in IT)**
+- 💬 Ask me about **my projects**.
 
-- ⚡ Fun fact **I'm really into DnD.**
+- ⚡ Fun fact **I'm really into DnD and story-telling video games**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
